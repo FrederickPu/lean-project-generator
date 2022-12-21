@@ -1,0 +1,6 @@
+tasks:
+  - command: curl https://raw.githubusercontent.com/leanprover/elan/master/elan-init.sh -sSf | sh
+  - command: python3 -m pip install --user pipx
+  - command: python3 -m pipx ensurepath
+  - command: source ~/.profile
+  - command: pipx install mathlibtools
