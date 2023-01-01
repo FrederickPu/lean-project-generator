@@ -7,3 +7,7 @@ This project's yaml file is based on the lean community installation guide: http
 
 The first line install **elan, lean, leanpkg**
 The next three lines install all depencies relating to the *leanproject* python library.
+
+
+Can access the project on gitpod:
+https://gitpod.io/#https://github.com/FrederickPu/lean-project-generator
